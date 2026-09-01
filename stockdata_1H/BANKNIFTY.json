@@ -1,59 +1,5 @@
 [
     {
-        "datetime":"2024-05-10T05:45:00.000Z",
-        "symbol":"NSE:BANKNIFTY",
-        "open":47672.45,
-        "high":47777.15,
-        "low":47601.65,
-        "close":47651.85,
-        "volume":21060971.0
-    },
-    {
-        "datetime":"2024-05-10T06:45:00.000Z",
-        "symbol":"NSE:BANKNIFTY",
-        "open":47650.5,
-        "high":47670.9,
-        "low":47313.35,
-        "close":47430.45,
-        "volume":21803177.0
-    },
-    {
-        "datetime":"2024-05-10T07:45:00.000Z",
-        "symbol":"NSE:BANKNIFTY",
-        "open":47426.65,
-        "high":47592.55,
-        "low":47387.35,
-        "close":47479.9,
-        "volume":15793368.0
-    },
-    {
-        "datetime":"2024-05-10T08:45:00.000Z",
-        "symbol":"NSE:BANKNIFTY",
-        "open":47479.15,
-        "high":47515.65,
-        "low":47362.75,
-        "close":47429.3,
-        "volume":36487260.0
-    },
-    {
-        "datetime":"2024-05-10T09:45:00.000Z",
-        "symbol":"NSE:BANKNIFTY",
-        "open":47424.05,
-        "high":47455.25,
-        "low":47411.15,
-        "close":47440.85,
-        "volume":19256249.0
-    },
-    {
-        "datetime":"2024-05-13T03:45:00.000Z",
-        "symbol":"NSE:BANKNIFTY",
-        "open":47428.65,
-        "high":47508.55,
-        "low":47021.9,
-        "close":47128.05,
-        "volume":51657316.0
-    },
-    {
         "datetime":"2024-05-13T04:45:00.000Z",
         "symbol":"NSE:BANKNIFTY",
         "open":47126.35,
@@ -35770,9 +35716,9 @@
         "symbol":"NSE:BANKNIFTY",
         "open":57952.45,
         "high":57961.05,
-        "low":57863.2,
+        "low":57848.7,
         "close":57937.6,
-        "volume":19629330.0
+        "volume":21492840.0
     },
     {
         "datetime":"2026-08-26T06:45:00.000Z",
@@ -35998,5 +35944,59 @@
         "low":57397.35,
         "close":58024.95,
         "volume":55274.0
+    },
+    {
+        "datetime":"2026-09-01T03:45:00.000Z",
+        "symbol":"NSE:BANKNIFTY",
+        "open":57572.7,
+        "high":57572.7,
+        "low":57316.6,
+        "close":57408.15,
+        "volume":48042697.0
+    },
+    {
+        "datetime":"2026-09-01T04:45:00.000Z",
+        "symbol":"NSE:BANKNIFTY",
+        "open":57410.2,
+        "high":57650.85,
+        "low":57404.05,
+        "close":57648.75,
+        "volume":22602575.0
+    },
+    {
+        "datetime":"2026-09-01T05:45:00.000Z",
+        "symbol":"NSE:BANKNIFTY",
+        "open":57652.65,
+        "high":57766.25,
+        "low":57608.55,
+        "close":57635.4,
+        "volume":17932456.0
+    },
+    {
+        "datetime":"2026-09-01T06:45:00.000Z",
+        "symbol":"NSE:BANKNIFTY",
+        "open":57635.9,
+        "high":57668.2,
+        "low":57498.6,
+        "close":57500.35,
+        "volume":16146447.0
+    },
+    {
+        "datetime":"2026-09-01T07:45:00.000Z",
+        "symbol":"NSE:BANKNIFTY",
+        "open":57501.45,
+        "high":57501.45,
+        "low":57150.7,
+        "close":57178.5,
+        "volume":25662041.0
+    },
+    {
+        "datetime":"2026-09-01T08:45:00.000Z",
+        "symbol":"NSE:BANKNIFTY",
+        "open":57181.0,
+        "high":57254.55,
+        "low":57151.7,
+        "close":57239.35,
+        "volume":7839745.0
     }
 ]

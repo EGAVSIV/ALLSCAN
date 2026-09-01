@@ -9547,5 +9547,14 @@
         "low":456.2,
         "close":456.2,
         "volume":2285757.0
+    },
+    {
+        "datetime":"2026-09-01T03:45:00.000Z",
+        "symbol":"NSE:DELHIVERY",
+        "open":462.65,
+        "high":464.35,
+        "low":457.8,
+        "close":458.55,
+        "volume":925289.0
     }
 ]
