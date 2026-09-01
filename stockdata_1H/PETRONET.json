@@ -35948,11 +35948,11 @@
     {
         "datetime":"2026-09-01T03:45:00.000Z",
         "symbol":"NSE:PETRONET",
-        "open":293.0,
+        "open":294.6,
         "high":296.65,
         "low":291.6,
         "close":293.8,
-        "volume":466825.0
+        "volume":466955.0
     },
     {
         "datetime":"2026-09-01T04:45:00.000Z",
@@ -35995,8 +35995,8 @@
         "symbol":"NSE:PETRONET",
         "open":291.1,
         "high":291.9,
-        "low":290.7,
-        "close":290.95,
-        "volume":105330.0
+        "low":290.4,
+        "close":290.6,
+        "volume":239150.0
     }
 ]
