@@ -1,1 +1,1 @@
-{"status": "success", "scanner": "RSI + ADX", "timeframe": "15 Min", "analysis_date": "2026-08-31", "total_matches": 1, "zones": {}, "results": [{"Symbol": "KAYNES", "Signal": "Bullish Reversal", "Trend": "", "State": "", "Setup": "", "Divergence": "", "RSI": "", "Zone": "", "Confluence": 1, "Bias": "Bullish", "Probability": "Low", "TV_Link": "[TV](https://in.tradingview.com/chart/LqUZraZ9/?symbol=NSE%3AKAYNES)"}]}
+{"status": "success", "scanner": "RSI + ADX", "timeframe": "15 Min", "analysis_date": "2026-09-03", "total_matches": 0, "zones": {}, "results": []}
