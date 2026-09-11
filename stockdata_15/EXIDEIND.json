@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2026-01-20T14:45:00.000Z",
-        "symbol":"NSE:EXIDEIND",
-        "open":334.15,
-        "high":334.2,
-        "low":332.9,
-        "close":332.9,
-        "volume":64141.0
-    },
-    {
-        "datetime":"2026-01-20T15:00:00.000Z",
-        "symbol":"NSE:EXIDEIND",
-        "open":332.85,
-        "high":332.9,
-        "low":330.0,
-        "close":330.25,
-        "volume":111656.0
-    },
-    {
-        "datetime":"2026-01-20T15:15:00.000Z",
-        "symbol":"NSE:EXIDEIND",
-        "open":330.2,
-        "high":331.55,
-        "low":329.1,
-        "close":331.45,
-        "volume":150158.0
-    },
-    {
         "datetime":"2026-01-21T09:15:00.000Z",
         "symbol":"NSE:EXIDEIND",
         "open":330.4,
@@ -35994,9 +35967,36 @@
         "datetime":"2026-09-11T14:30:00.000Z",
         "symbol":"NSE:EXIDEIND",
         "open":414.7,
-        "high":414.7,
-        "low":414.6,
-        "close":414.7,
-        "volume":475.0
+        "high":414.8,
+        "low":414.05,
+        "close":414.4,
+        "volume":22468.0
+    },
+    {
+        "datetime":"2026-09-11T14:45:00.000Z",
+        "symbol":"NSE:EXIDEIND",
+        "open":414.35,
+        "high":414.6,
+        "low":414.05,
+        "close":414.25,
+        "volume":32267.0
+    },
+    {
+        "datetime":"2026-09-11T15:00:00.000Z",
+        "symbol":"NSE:EXIDEIND",
+        "open":414.1,
+        "high":414.1,
+        "low":411.5,
+        "close":412.5,
+        "volume":152122.0
+    },
+    {
+        "datetime":"2026-09-11T15:15:00.000Z",
+        "symbol":"NSE:EXIDEIND",
+        "open":412.55,
+        "high":412.85,
+        "low":411.45,
+        "close":412.85,
+        "volume":73341.0
     }
 ]

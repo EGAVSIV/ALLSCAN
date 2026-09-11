@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-05-23T14:15:00.000Z",
-        "symbol":"NSE:DALBHARAT",
-        "open":1814.0,
-        "high":1818.45,
-        "low":1811.4,
-        "close":1812.85,
-        "volume":19700.0
-    },
-    {
         "datetime":"2024-05-23T15:15:00.000Z",
         "symbol":"NSE:DALBHARAT",
         "open":1813.1,
@@ -35994,9 +35985,18 @@
         "datetime":"2026-09-11T14:15:00.000Z",
         "symbol":"NSE:DALBHARAT",
         "open":1738.8,
-        "high":1740.1,
+        "high":1754.8,
         "low":1736.8,
-        "close":1740.0,
-        "volume":1458.0
+        "close":1747.6,
+        "volume":14107.0
+    },
+    {
+        "datetime":"2026-09-11T15:15:00.000Z",
+        "symbol":"NSE:DALBHARAT",
+        "open":1749.9,
+        "high":1755.0,
+        "low":1742.5,
+        "close":1754.0,
+        "volume":2809.0
     }
 ]

@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2026-01-19T13:45:00.000Z",
-        "symbol":"NSE:DMART",
-        "open":3749.9,
-        "high":3755.0,
-        "low":3748.8,
-        "close":3750.7,
-        "volume":4945.0
-    },
-    {
-        "datetime":"2026-01-19T14:00:00.000Z",
-        "symbol":"NSE:DMART",
-        "open":3750.8,
-        "high":3754.0,
-        "low":3743.7,
-        "close":3743.7,
-        "volume":4755.0
-    },
-    {
         "datetime":"2026-01-19T14:15:00.000Z",
         "symbol":"NSE:DMART",
         "open":3744.0,
@@ -35994,9 +35976,27 @@
         "datetime":"2026-09-11T14:30:00.000Z",
         "symbol":"NSE:DMART",
         "open":3680.4,
-        "high":3680.4,
-        "low":3680.1,
-        "close":3680.4,
-        "volume":46.0
+        "high":3696.2,
+        "low":3679.1,
+        "close":3694.0,
+        "volume":68279.0
+    },
+    {
+        "datetime":"2026-09-11T14:45:00.000Z",
+        "symbol":"NSE:DMART",
+        "open":3694.0,
+        "high":3706.2,
+        "low":3678.6,
+        "close":3678.6,
+        "volume":52150.0
+    },
+    {
+        "datetime":"2026-09-11T15:00:00.000Z",
+        "symbol":"NSE:DMART",
+        "open":3679.4,
+        "high":3685.0,
+        "low":3677.0,
+        "close":3685.0,
+        "volume":95660.0
     }
 ]
