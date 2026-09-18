@@ -1,14 +1,5 @@
 [
     {
-        "datetime":"2024-05-29T14:15:00.000Z",
-        "symbol":"NSE:NIFTYJR",
-        "open":68229.3,
-        "high":68264.55,
-        "low":68050.75,
-        "close":68097.8,
-        "volume":0.0
-    },
-    {
         "datetime":"2024-05-29T15:15:00.000Z",
         "symbol":"NSE:NIFTYJR",
         "open":68098.7,
@@ -35994,9 +35985,18 @@
         "datetime":"2026-09-18T14:15:00.000Z",
         "symbol":"NSE:NIFTYJR",
         "open":72043.95,
-        "high":72077.95,
+        "high":72199.1,
         "low":72039.1,
-        "close":72066.25,
-        "volume":2696303.0
+        "close":72080.25,
+        "volume":52364325.0
+    },
+    {
+        "datetime":"2026-09-18T15:15:00.000Z",
+        "symbol":"NSE:NIFTYJR",
+        "open":72081.1,
+        "high":72103.4,
+        "low":72007.9,
+        "close":72015.2,
+        "volume":3175049.0
     }
 ]
