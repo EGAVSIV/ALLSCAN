@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2026-01-23T12:00:00.000Z",
-        "symbol":"NSE:UPL",
-        "open":703.05,
-        "high":704.2,
-        "low":701.65,
-        "close":701.7,
-        "volume":105033.0
-    },
-    {
-        "datetime":"2026-01-23T12:15:00.000Z",
-        "symbol":"NSE:UPL",
-        "open":702.1,
-        "high":709.85,
-        "low":701.45,
-        "close":709.4,
-        "volume":125538.0
-    },
-    {
         "datetime":"2026-01-23T12:30:00.000Z",
         "symbol":"NSE:UPL",
         "open":709.7,
@@ -35994,9 +35976,27 @@
         "datetime":"2026-09-18T13:45:00.000Z",
         "symbol":"NSE:UPL",
         "open":561.2,
-        "high":561.55,
+        "high":561.7,
         "low":561.0,
-        "close":561.55,
-        "volume":5139.0
+        "close":561.7,
+        "volume":7721.0
+    },
+    {
+        "datetime":"2026-09-18T14:00:00.000Z",
+        "symbol":"NSE:UPL",
+        "open":561.7,
+        "high":563.15,
+        "low":561.4,
+        "close":563.05,
+        "volume":125447.0
+    },
+    {
+        "datetime":"2026-09-18T14:15:00.000Z",
+        "symbol":"NSE:UPL",
+        "open":563.0,
+        "high":563.4,
+        "low":562.75,
+        "close":563.15,
+        "volume":69349.0
     }
 ]

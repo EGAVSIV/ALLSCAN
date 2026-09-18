@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2026-01-23T12:00:00.000Z",
-        "symbol":"NSE:VOLTAS",
-        "open":1330.0,
-        "high":1330.0,
-        "low":1326.8,
-        "close":1327.0,
-        "volume":13155.0
-    },
-    {
-        "datetime":"2026-01-23T12:15:00.000Z",
-        "symbol":"NSE:VOLTAS",
-        "open":1327.0,
-        "high":1327.4,
-        "low":1317.2,
-        "close":1317.7,
-        "volume":40307.0
-    },
-    {
         "datetime":"2026-01-23T12:30:00.000Z",
         "symbol":"NSE:VOLTAS",
         "open":1317.2,
@@ -35994,9 +35976,27 @@
         "datetime":"2026-09-18T13:45:00.000Z",
         "symbol":"NSE:VOLTAS",
         "open":1132.5,
-        "high":1133.1,
-        "low":1132.0,
-        "close":1133.1,
-        "volume":4698.0
+        "high":1133.3,
+        "low":1131.8,
+        "close":1132.5,
+        "volume":8155.0
+    },
+    {
+        "datetime":"2026-09-18T14:00:00.000Z",
+        "symbol":"NSE:VOLTAS",
+        "open":1132.5,
+        "high":1133.3,
+        "low":1131.6,
+        "close":1131.7,
+        "volume":12593.0
+    },
+    {
+        "datetime":"2026-09-18T14:15:00.000Z",
+        "symbol":"NSE:VOLTAS",
+        "open":1132.1,
+        "high":1132.1,
+        "low":1130.2,
+        "close":1130.4,
+        "volume":12643.0
     }
 ]

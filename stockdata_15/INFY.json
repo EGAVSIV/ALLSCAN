@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2026-01-23T12:00:00.000Z",
-        "symbol":"NSE:INFY",
-        "open":1669.8,
-        "high":1670.8,
-        "low":1669.0,
-        "close":1670.0,
-        "volume":157153.0
-    },
-    {
-        "datetime":"2026-01-23T12:15:00.000Z",
-        "symbol":"NSE:INFY",
-        "open":1670.2,
-        "high":1672.0,
-        "low":1670.0,
-        "close":1670.9,
-        "volume":137411.0
-    },
-    {
         "datetime":"2026-01-23T12:30:00.000Z",
         "symbol":"NSE:INFY",
         "open":1671.2,
@@ -35994,9 +35976,27 @@
         "datetime":"2026-09-18T13:45:00.000Z",
         "symbol":"NSE:INFY",
         "open":1043.6,
-        "high":1044.0,
+        "high":1045.0,
         "low":1042.6,
+        "close":1043.3,
+        "volume":243235.0
+    },
+    {
+        "datetime":"2026-09-18T14:00:00.000Z",
+        "symbol":"NSE:INFY",
+        "open":1043.3,
+        "high":1045.1,
+        "low":1042.9,
+        "close":1042.9,
+        "volume":164765.0
+    },
+    {
+        "datetime":"2026-09-18T14:15:00.000Z",
+        "symbol":"NSE:INFY",
+        "open":1043.0,
+        "high":1044.5,
+        "low":1041.9,
         "close":1043.5,
-        "volume":145253.0
+        "volume":467475.0
     }
 ]

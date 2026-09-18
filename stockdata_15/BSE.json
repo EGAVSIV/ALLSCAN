@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2026-01-23T12:00:00.000Z",
-        "symbol":"NSE:BSE",
-        "open":2706.0,
-        "high":2707.9,
-        "low":2687.1,
-        "close":2687.1,
-        "volume":104168.0
-    },
-    {
-        "datetime":"2026-01-23T12:15:00.000Z",
-        "symbol":"NSE:BSE",
-        "open":2687.4,
-        "high":2696.0,
-        "low":2685.0,
-        "close":2689.5,
-        "volume":63639.0
-    },
-    {
         "datetime":"2026-01-23T12:30:00.000Z",
         "symbol":"NSE:BSE",
         "open":2689.5,
@@ -35994,9 +35976,27 @@
         "datetime":"2026-09-18T13:45:00.000Z",
         "symbol":"NSE:BSE",
         "open":3254.0,
-        "high":3258.0,
+        "high":3260.9,
         "low":3253.2,
+        "close":3259.6,
+        "volume":44247.0
+    },
+    {
+        "datetime":"2026-09-18T14:00:00.000Z",
+        "symbol":"NSE:BSE",
+        "open":3258.3,
+        "high":3260.7,
+        "low":3256.0,
+        "close":3257.6,
+        "volume":35922.0
+    },
+    {
+        "datetime":"2026-09-18T14:15:00.000Z",
+        "symbol":"NSE:BSE",
+        "open":3258.0,
+        "high":3258.1,
+        "low":3256.0,
         "close":3257.1,
-        "volume":20653.0
+        "volume":12975.0
     }
 ]
