@@ -22290,6 +22290,15 @@
         "high":455.45,
         "low":442.95,
         "close":444.55,
-        "volume":2919206.0
+        "volume":2919254.0
+    },
+    {
+        "datetime":"2026-09-30T09:15:00.000Z",
+        "symbol":"NSE:ICICIPRULI",
+        "open":448.0,
+        "high":450.0,
+        "low":442.4,
+        "close":443.8,
+        "volume":839426.0
     }
 ]

@@ -25575,6 +25575,15 @@
         "high":73.04,
         "low":70.57,
         "close":71.5,
-        "volume":8300730.0
+        "volume":8301480.0
+    },
+    {
+        "datetime":"2026-09-30T09:15:00.000Z",
+        "symbol":"NSE:INOXWIND",
+        "open":72.0,
+        "high":72.93,
+        "low":69.51,
+        "close":69.51,
+        "volume":9225936.0
     }
 ]
