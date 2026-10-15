@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2026-02-17T14:15:00.000Z",
-        "symbol":"NSE:HDFCBANK",
-        "open":924.45,
-        "high":925.9,
-        "low":923.9,
-        "close":925.6,
-        "volume":943907.0
-    },
-    {
-        "datetime":"2026-02-17T14:30:00.000Z",
-        "symbol":"NSE:HDFCBANK",
-        "open":925.25,
-        "high":926.85,
-        "low":925.0,
-        "close":926.25,
-        "volume":1085953.0
-    },
-    {
-        "datetime":"2026-02-17T14:45:00.000Z",
-        "symbol":"NSE:HDFCBANK",
-        "open":926.15,
-        "high":926.3,
-        "low":924.8,
-        "close":925.0,
-        "volume":686546.0
-    },
-    {
         "datetime":"2026-02-17T15:00:00.000Z",
         "symbol":"NSE:HDFCBANK",
         "open":925.0,
@@ -34656,16 +34629,16 @@
         "high":703.05,
         "low":701.7,
         "close":702.55,
-        "volume":932753.0
+        "volume":838795.0
     },
     {
         "datetime":"2026-10-07T13:15:00.000Z",
         "symbol":"NSE:HDFCBANK",
-        "open":702.55,
+        "open":703.0,
         "high":703.0,
         "low":701.75,
         "close":702.6,
-        "volume":871586.0
+        "volume":639690.0
     },
     {
         "datetime":"2026-10-07T13:30:00.000Z",
@@ -35996,7 +35969,34 @@
         "open":725.9,
         "high":726.4,
         "low":724.25,
-        "close":724.6,
-        "volume":1578726.0
+        "close":724.85,
+        "volume":1640382.0
+    },
+    {
+        "datetime":"2026-10-15T14:30:00.000Z",
+        "symbol":"NSE:HDFCBANK",
+        "open":724.9,
+        "high":726.25,
+        "low":724.25,
+        "close":725.65,
+        "volume":901871.0
+    },
+    {
+        "datetime":"2026-10-15T14:45:00.000Z",
+        "symbol":"NSE:HDFCBANK",
+        "open":725.65,
+        "high":726.95,
+        "low":724.9,
+        "close":725.4,
+        "volume":2396484.0
+    },
+    {
+        "datetime":"2026-10-15T15:00:00.000Z",
+        "symbol":"NSE:HDFCBANK",
+        "open":725.45,
+        "high":725.55,
+        "low":723.75,
+        "close":724.35,
+        "volume":2315651.0
     }
 ]

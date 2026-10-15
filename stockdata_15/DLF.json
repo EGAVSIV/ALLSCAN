@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2026-02-17T14:30:00.000Z",
-        "symbol":"NSE:DLF",
-        "open":638.5,
-        "high":639.5,
-        "low":637.6,
-        "close":638.55,
-        "volume":38189.0
-    },
-    {
-        "datetime":"2026-02-17T14:45:00.000Z",
-        "symbol":"NSE:DLF",
-        "open":638.55,
-        "high":641.15,
-        "low":637.9,
-        "close":640.65,
-        "volume":37012.0
-    },
-    {
         "datetime":"2026-02-17T15:00:00.000Z",
         "symbol":"NSE:DLF",
         "open":640.6,
@@ -35259,7 +35241,7 @@
         "high":646.9,
         "low":643.9,
         "close":646.5,
-        "volume":81728.0
+        "volume":81747.0
     },
     {
         "datetime":"2026-10-12T12:15:00.000Z",
@@ -35994,9 +35976,27 @@
         "datetime":"2026-10-15T14:30:00.000Z",
         "symbol":"NSE:DLF",
         "open":670.35,
-        "high":670.75,
-        "low":670.35,
-        "close":670.65,
-        "volume":3047.0
+        "high":671.5,
+        "low":669.65,
+        "close":670.4,
+        "volume":92760.0
+    },
+    {
+        "datetime":"2026-10-15T14:45:00.000Z",
+        "symbol":"NSE:DLF",
+        "open":670.4,
+        "high":670.45,
+        "low":669.2,
+        "close":669.6,
+        "volume":91017.0
+    },
+    {
+        "datetime":"2026-10-15T15:00:00.000Z",
+        "symbol":"NSE:DLF",
+        "open":669.5,
+        "high":670.65,
+        "low":668.55,
+        "close":668.55,
+        "volume":259815.0
     }
 ]
