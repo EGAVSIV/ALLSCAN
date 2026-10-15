@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2026-02-17T14:00:00.000Z",
-        "symbol":"NSE:NIFTY",
-        "open":25699.45,
-        "high":25734.15,
-        "low":25667.8,
-        "close":25670.95,
-        "volume":11906743.0
-    },
-    {
-        "datetime":"2026-02-17T14:15:00.000Z",
-        "symbol":"NSE:NIFTY",
-        "open":25670.7,
-        "high":25705.8,
-        "low":25662.6,
-        "close":25683.35,
-        "volume":9302602.0
-    },
-    {
         "datetime":"2026-02-17T14:30:00.000Z",
         "symbol":"NSE:NIFTY",
         "open":25686.1,
@@ -35995,8 +35977,26 @@
         "symbol":"NSE:NIFTY",
         "open":23048.55,
         "high":23048.55,
-        "low":23042.2,
-        "close":23043.4,
-        "volume":723022.0
+        "low":23019.8,
+        "close":23029.7,
+        "volume":11672319.0
+    },
+    {
+        "datetime":"2026-10-15T14:15:00.000Z",
+        "symbol":"NSE:NIFTY",
+        "open":23028.9,
+        "high":23042.75,
+        "low":22992.5,
+        "close":23002.65,
+        "volume":15122052.0
+    },
+    {
+        "datetime":"2026-10-15T14:30:00.000Z",
+        "symbol":"NSE:NIFTY",
+        "open":23002.7,
+        "high":23005.0,
+        "low":22999.35,
+        "close":23000.85,
+        "volume":426526.0
     }
 ]

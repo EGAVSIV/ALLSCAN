@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2026-02-17T13:45:00.000Z",
-        "symbol":"NSE:IOC",
-        "open":174.52,
-        "high":174.52,
-        "low":174.01,
-        "close":174.34,
-        "volume":87104.0
-    },
-    {
-        "datetime":"2026-02-17T14:00:00.000Z",
-        "symbol":"NSE:IOC",
-        "open":174.35,
-        "high":174.86,
-        "low":174.26,
-        "close":174.33,
-        "volume":129334.0
-    },
-    {
         "datetime":"2026-02-17T14:15:00.000Z",
         "symbol":"NSE:IOC",
         "open":174.35,
@@ -35996,7 +35978,25 @@
         "open":128.8,
         "high":129.15,
         "low":128.77,
-        "close":129.08,
-        "volume":279282.0
+        "close":129.01,
+        "volume":284008.0
+    },
+    {
+        "datetime":"2026-10-15T14:00:00.000Z",
+        "symbol":"NSE:IOC",
+        "open":129.03,
+        "high":129.1,
+        "low":128.72,
+        "close":128.81,
+        "volume":171174.0
+    },
+    {
+        "datetime":"2026-10-15T14:15:00.000Z",
+        "symbol":"NSE:IOC",
+        "open":128.81,
+        "high":128.91,
+        "low":128.54,
+        "close":128.6,
+        "volume":136160.0
     }
 ]

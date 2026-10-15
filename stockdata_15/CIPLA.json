@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2026-02-17T14:00:00.000Z",
-        "symbol":"NSE:CIPLA",
-        "open":1342.0,
-        "high":1344.5,
-        "low":1340.9,
-        "close":1343.2,
-        "volume":103346.0
-    },
-    {
-        "datetime":"2026-02-17T14:15:00.000Z",
-        "symbol":"NSE:CIPLA",
-        "open":1343.0,
-        "high":1345.0,
-        "low":1342.1,
-        "close":1342.7,
-        "volume":99589.0
-    },
-    {
         "datetime":"2026-02-17T14:30:00.000Z",
         "symbol":"NSE:CIPLA",
         "open":1342.7,
@@ -35994,9 +35976,27 @@
         "datetime":"2026-10-15T14:00:00.000Z",
         "symbol":"NSE:CIPLA",
         "open":1330.6,
+        "high":1331.5,
+        "low":1328.4,
+        "close":1331.1,
+        "volume":39068.0
+    },
+    {
+        "datetime":"2026-10-15T14:15:00.000Z",
+        "symbol":"NSE:CIPLA",
+        "open":1330.6,
+        "high":1330.9,
+        "low":1330.0,
+        "close":1330.5,
+        "volume":24114.0
+    },
+    {
+        "datetime":"2026-10-15T14:30:00.000Z",
+        "symbol":"NSE:CIPLA",
+        "open":1330.4,
         "high":1330.6,
-        "low":1330.6,
+        "low":1330.4,
         "close":1330.6,
-        "volume":16.0
+        "volume":197.0
     }
 ]
