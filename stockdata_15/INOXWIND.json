@@ -1,23 +1,5 @@
 [
     {
-        "datetime":"2026-02-18T13:30:00.000Z",
-        "symbol":"NSE:INOXWIND",
-        "open":99.3,
-        "high":99.33,
-        "low":99.11,
-        "close":99.21,
-        "volume":87880.0
-    },
-    {
-        "datetime":"2026-02-18T13:45:00.000Z",
-        "symbol":"NSE:INOXWIND",
-        "open":99.19,
-        "high":99.44,
-        "low":99.1,
-        "close":99.21,
-        "volume":129638.0
-    },
-    {
         "datetime":"2026-02-18T14:00:00.000Z",
         "symbol":"NSE:INOXWIND",
         "open":99.27,
@@ -35996,7 +35978,25 @@
         "open":68.81,
         "high":68.94,
         "low":68.73,
-        "close":68.86,
-        "volume":56899.0
+        "close":68.88,
+        "volume":75920.0
+    },
+    {
+        "datetime":"2026-10-16T14:00:00.000Z",
+        "symbol":"NSE:INOXWIND",
+        "open":68.87,
+        "high":68.91,
+        "low":68.65,
+        "close":68.67,
+        "volume":89426.0
+    },
+    {
+        "datetime":"2026-10-16T14:15:00.000Z",
+        "symbol":"NSE:INOXWIND",
+        "open":68.68,
+        "high":68.75,
+        "low":68.67,
+        "close":68.71,
+        "volume":26459.0
     }
 ]
