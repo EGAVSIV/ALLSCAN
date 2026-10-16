@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2026-02-18T14:00:00.000Z",
-        "symbol":"NSE:M&M",
-        "open":3497.0,
-        "high":3501.8,
-        "low":3494.0,
-        "close":3499.2,
-        "volume":49496.0
-    },
-    {
-        "datetime":"2026-02-18T14:15:00.000Z",
-        "symbol":"NSE:M&M",
-        "open":3499.3,
-        "high":3503.9,
-        "low":3498.4,
-        "close":3503.4,
-        "volume":58795.0
-    },
-    {
-        "datetime":"2026-02-18T14:30:00.000Z",
-        "symbol":"NSE:M&M",
-        "open":3503.4,
-        "high":3507.9,
-        "low":3500.4,
-        "close":3506.8,
-        "volume":48880.0
-    },
-    {
         "datetime":"2026-02-18T14:45:00.000Z",
         "symbol":"NSE:M&M",
         "open":3507.0,
@@ -35995,8 +35968,35 @@
         "symbol":"NSE:M&M",
         "open":2915.4,
         "high":2917.7,
-        "low":2910.7,
-        "close":2912.4,
-        "volume":51120.0
+        "low":2906.1,
+        "close":2910.3,
+        "volume":100805.0
+    },
+    {
+        "datetime":"2026-10-16T14:30:00.000Z",
+        "symbol":"NSE:M&M",
+        "open":2912.3,
+        "high":2917.0,
+        "low":2910.6,
+        "close":2916.8,
+        "volume":83848.0
+    },
+    {
+        "datetime":"2026-10-16T14:45:00.000Z",
+        "symbol":"NSE:M&M",
+        "open":2916.2,
+        "high":2921.6,
+        "low":2913.9,
+        "close":2913.9,
+        "volume":76620.0
+    },
+    {
+        "datetime":"2026-10-16T15:00:00.000Z",
+        "symbol":"NSE:M&M",
+        "open":2913.8,
+        "high":2919.0,
+        "low":2910.5,
+        "close":2917.0,
+        "volume":134675.0
     }
 ]

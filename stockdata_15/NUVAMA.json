@@ -1,41 +1,5 @@
 [
     {
-        "datetime":"2026-02-20T14:30:00.000Z",
-        "symbol":"NSE:NUVAMA",
-        "open":1293.8,
-        "high":1297.1,
-        "low":1284.8,
-        "close":1289.3,
-        "volume":14648.0
-    },
-    {
-        "datetime":"2026-02-20T14:45:00.000Z",
-        "symbol":"NSE:NUVAMA",
-        "open":1289.7,
-        "high":1300.9,
-        "low":1289.2,
-        "close":1296.0,
-        "volume":14711.0
-    },
-    {
-        "datetime":"2026-02-20T15:00:00.000Z",
-        "symbol":"NSE:NUVAMA",
-        "open":1297.3,
-        "high":1301.9,
-        "low":1282.0,
-        "close":1285.5,
-        "volume":15220.0
-    },
-    {
-        "datetime":"2026-02-20T15:15:00.000Z",
-        "symbol":"NSE:NUVAMA",
-        "open":1285.0,
-        "high":1293.9,
-        "low":1281.1,
-        "close":1281.7,
-        "volume":20303.0
-    },
-    {
         "datetime":"2026-02-23T09:15:00.000Z",
         "symbol":"NSE:NUVAMA",
         "open":1298.5,
@@ -35994,9 +35958,45 @@
         "datetime":"2026-10-16T14:15:00.000Z",
         "symbol":"NSE:NUVAMA",
         "open":1721.6,
-        "high":1721.6,
-        "low":1720.1,
-        "close":1721.0,
-        "volume":366.0
+        "high":1723.8,
+        "low":1720.0,
+        "close":1722.2,
+        "volume":13527.0
+    },
+    {
+        "datetime":"2026-10-16T14:30:00.000Z",
+        "symbol":"NSE:NUVAMA",
+        "open":1721.9,
+        "high":1724.7,
+        "low":1720.0,
+        "close":1721.3,
+        "volume":3102.0
+    },
+    {
+        "datetime":"2026-10-16T14:45:00.000Z",
+        "symbol":"NSE:NUVAMA",
+        "open":1720.7,
+        "high":1722.9,
+        "low":1720.0,
+        "close":1720.0,
+        "volume":4646.0
+    },
+    {
+        "datetime":"2026-10-16T15:00:00.000Z",
+        "symbol":"NSE:NUVAMA",
+        "open":1720.0,
+        "high":1721.7,
+        "low":1694.8,
+        "close":1697.7,
+        "volume":32500.0
+    },
+    {
+        "datetime":"2026-10-16T15:15:00.000Z",
+        "symbol":"NSE:NUVAMA",
+        "open":1698.4,
+        "high":1705.5,
+        "low":1695.0,
+        "close":1697.0,
+        "volume":41020.0
     }
 ]

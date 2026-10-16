@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2026-02-18T14:00:00.000Z",
-        "symbol":"NSE:PNB",
-        "open":128.11,
-        "high":128.39,
-        "low":128.0,
-        "close":128.22,
-        "volume":819499.0
-    },
-    {
-        "datetime":"2026-02-18T14:15:00.000Z",
-        "symbol":"NSE:PNB",
-        "open":128.28,
-        "high":128.43,
-        "low":128.15,
-        "close":128.25,
-        "volume":468528.0
-    },
-    {
-        "datetime":"2026-02-18T14:30:00.000Z",
-        "symbol":"NSE:PNB",
-        "open":128.27,
-        "high":128.35,
-        "low":127.74,
-        "close":127.99,
-        "volume":1246399.0
-    },
-    {
         "datetime":"2026-02-18T14:45:00.000Z",
         "symbol":"NSE:PNB",
         "open":127.95,
@@ -35995,8 +35968,35 @@
         "symbol":"NSE:PNB",
         "open":116.04,
         "high":116.07,
-        "low":115.68,
-        "close":115.75,
-        "volume":358044.0
+        "low":115.63,
+        "close":115.82,
+        "volume":622824.0
+    },
+    {
+        "datetime":"2026-10-16T14:30:00.000Z",
+        "symbol":"NSE:PNB",
+        "open":115.86,
+        "high":115.92,
+        "low":115.51,
+        "close":115.9,
+        "volume":652634.0
+    },
+    {
+        "datetime":"2026-10-16T14:45:00.000Z",
+        "symbol":"NSE:PNB",
+        "open":115.9,
+        "high":115.9,
+        "low":115.54,
+        "close":115.6,
+        "volume":916478.0
+    },
+    {
+        "datetime":"2026-10-16T15:00:00.000Z",
+        "symbol":"NSE:PNB",
+        "open":115.59,
+        "high":115.9,
+        "low":115.59,
+        "close":115.9,
+        "volume":2652224.0
     }
 ]

@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2026-02-18T14:00:00.000Z",
-        "symbol":"NSE:SWIGGY",
-        "open":332.6,
-        "high":333.4,
-        "low":332.45,
-        "close":333.0,
-        "volume":67855.0
-    },
-    {
-        "datetime":"2026-02-18T14:15:00.000Z",
-        "symbol":"NSE:SWIGGY",
-        "open":333.1,
-        "high":333.5,
-        "low":332.75,
-        "close":333.1,
-        "volume":228365.0
-    },
-    {
-        "datetime":"2026-02-18T14:30:00.000Z",
-        "symbol":"NSE:SWIGGY",
-        "open":333.15,
-        "high":333.15,
-        "low":330.8,
-        "close":331.3,
-        "volume":131179.0
-    },
-    {
         "datetime":"2026-02-18T14:45:00.000Z",
         "symbol":"NSE:SWIGGY",
         "open":331.25,
@@ -35052,7 +35025,7 @@
         "high":235.0,
         "low":234.4,
         "close":234.65,
-        "volume":149835.0
+        "volume":150512.0
     },
     {
         "datetime":"2026-10-12T12:15:00.000Z",
@@ -35061,7 +35034,7 @@
         "high":235.0,
         "low":234.5,
         "close":234.8,
-        "volume":130543.0
+        "volume":129087.0
     },
     {
         "datetime":"2026-10-12T12:30:00.000Z",
@@ -35995,8 +35968,35 @@
         "symbol":"NSE:SWIGGY",
         "open":234.4,
         "high":234.55,
-        "low":233.7,
+        "low":233.5,
         "close":233.7,
-        "volume":86379.0
+        "volume":114395.0
+    },
+    {
+        "datetime":"2026-10-16T14:30:00.000Z",
+        "symbol":"NSE:SWIGGY",
+        "open":233.65,
+        "high":234.0,
+        "low":233.65,
+        "close":233.8,
+        "volume":150186.0
+    },
+    {
+        "datetime":"2026-10-16T14:45:00.000Z",
+        "symbol":"NSE:SWIGGY",
+        "open":233.95,
+        "high":234.35,
+        "low":233.1,
+        "close":233.15,
+        "volume":273007.0
+    },
+    {
+        "datetime":"2026-10-16T15:00:00.000Z",
+        "symbol":"NSE:SWIGGY",
+        "open":233.25,
+        "high":234.5,
+        "low":233.15,
+        "close":234.5,
+        "volume":662392.0
     }
 ]

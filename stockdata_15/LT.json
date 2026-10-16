@@ -1,32 +1,5 @@
 [
     {
-        "datetime":"2026-02-18T14:00:00.000Z",
-        "symbol":"NSE:LT",
-        "open":4300.6,
-        "high":4306.8,
-        "low":4296.8,
-        "close":4305.7,
-        "volume":58828.0
-    },
-    {
-        "datetime":"2026-02-18T14:15:00.000Z",
-        "symbol":"NSE:LT",
-        "open":4306.2,
-        "high":4314.0,
-        "low":4304.0,
-        "close":4313.4,
-        "volume":70001.0
-    },
-    {
-        "datetime":"2026-02-18T14:30:00.000Z",
-        "symbol":"NSE:LT",
-        "open":4313.0,
-        "high":4319.3,
-        "low":4309.8,
-        "close":4312.2,
-        "volume":105052.0
-    },
-    {
         "datetime":"2026-02-18T14:45:00.000Z",
         "symbol":"NSE:LT",
         "open":4313.8,
@@ -35995,8 +35968,35 @@
         "symbol":"NSE:LT",
         "open":3641.9,
         "high":3642.7,
-        "low":3637.7,
-        "close":3638.7,
-        "volume":52730.0
+        "low":3631.0,
+        "close":3633.1,
+        "volume":103827.0
+    },
+    {
+        "datetime":"2026-10-16T14:30:00.000Z",
+        "symbol":"NSE:LT",
+        "open":3636.4,
+        "high":3640.5,
+        "low":3633.1,
+        "close":3637.1,
+        "volume":114812.0
+    },
+    {
+        "datetime":"2026-10-16T14:45:00.000Z",
+        "symbol":"NSE:LT",
+        "open":3637.8,
+        "high":3642.6,
+        "low":3632.0,
+        "close":3634.8,
+        "volume":150915.0
+    },
+    {
+        "datetime":"2026-10-16T15:00:00.000Z",
+        "symbol":"NSE:LT",
+        "open":3634.8,
+        "high":3644.0,
+        "low":3633.0,
+        "close":3643.7,
+        "volume":159648.0
     }
 ]
